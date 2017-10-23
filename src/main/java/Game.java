@@ -1,4 +1,5 @@
 import Helpers.Color;
+syntax error;
 
 public class Game {
    /**

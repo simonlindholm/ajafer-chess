@@ -19,6 +19,7 @@ class GameTest {
     Board board = new Board();
     NEW_GAME.setBoard(board);
     assertEquals(NEW_GAME.getBoard(), board);
+    assertEquals(1, 2);
   }
 
   @Test
